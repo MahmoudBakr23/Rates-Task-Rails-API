@@ -3,22 +3,18 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-Things you may want to cover:
+## Available Scripts
 
-* Ruby version
+After cloning the repo
+### `rails db:create`
+To re-create the database
 
-* System dependencies
+### `rails db:migrate`
+To migrate the schema
 
-* Configuration
+Then run
+### `rails s`
+To start the live server
+Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Please make sure to start the live [frontend server](https://github.com/MahmoudBakr23/Frontend-Rates-Task) as well!
