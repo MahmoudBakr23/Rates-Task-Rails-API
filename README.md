@@ -6,9 +6,14 @@ application up and running.
 ## Available Scripts
 
 After cloning the repo
+### `bundle install`
+To install the gems
+
+Then
 ### `rails db:create`
 To re-create the database
 
+Then
 ### `rails db:migrate`
 To migrate the schema
 
